@@ -1,0 +1,77 @@
+#div_top{
+	width: 100%;
+}
+#div_top>img{
+	width: 100%;
+}
+*{
+	margin: 0px;
+}
+#div1{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+#div1>img{
+	
+	width: 20%;
+}
+#div2{
+	width: 100%;
+}
+#div2>img{
+	width: 100%;
+}
+#div3{
+	width: 100%;
+	display: flex;
+	
+}
+#div3>.cdiv{
+	width: 33%;
+}
+#div3>.cdiv>img{
+	width: 100%;
+}
+#div4{
+
+width: 100%;
+
+}
+#div4>#div4_tu{
+	width: 100%;		
+}
+#div4>#div4_tu>#div4_bj>img{
+	width: 100%;		
+}
+#div4>#div4_tu>ul{
+		display: flex;
+flex-wrap: wrap;
+	width: 100%;
+	list-style: none;
+}
+#div4>#div4_tu>ul>li{
+	position: relative;
+	top: -150px;
+	width: 22%;
+}
+#div4>#div4_tu>ul>li>img{
+	width: 100%;
+}
+#div5{
+	position: relative;
+	top: -130px;
+	width: 100%;
+}
+#div5>img{
+	width: 100%;
+}
+#div6{
+	position: relative;
+	top: -130px;
+	width: 100%;
+}
+#div6>img{
+	width: 100%;
+}
+
